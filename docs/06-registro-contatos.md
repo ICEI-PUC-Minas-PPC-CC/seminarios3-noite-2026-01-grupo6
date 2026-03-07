@@ -1,6 +1,7 @@
 # 06 — Registro de Contatos com a Comunidade
 
 > **Grupo:** 6
+
 > **Comunidade:** Tarso de Coimbra
 
 ---
