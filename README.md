@@ -10,16 +10,16 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| **Nome do Grupo** | *(preencher)* |
-| **Integrantes** | *(listar todos)* |
-| **E-mail de contato** | *(preencher)* |
-| **Comunidade parceira** | *(preencher)* |
+| **Nome do Grupo** | Grupo 6 |
+| **Integrantes** | Danilo Elias, Rafael de Oliveira Cesário da Silva |
+| **E-mail de contato** | RafaelOliveiracds@gmail.com |
+| **Comunidade parceira** | Tarso de Coimbra |
 
 ---
 
 ## 🎯 Software a Ser Desenvolvido
 
-(Descreva brevemente a aplicação que será desenvolvida e seu objetivo.)
+Desenvolvimento de página Web para ensino de operações matemáticas básicas.
 
 ---
 
@@ -57,12 +57,9 @@
 
 ## 🛠️ Tecnologias Sugeridas
 
-O grupo tem liberdade de escolha. Sugestões do professor:
-
-- **Front-end:** HTML, CSS, JavaScript, React
-- **Back-end (opcional):** Node.js, Python (Flask/Streamlit), etc.
-- **Hospedagem gratuita:** Streamlit App, Vercel, Netlify, GitHub Pages, Railway
-
+- **Front-end:** HTML, CSS, JavaScript, React, Nextjs
+- **Hospedagem:** Vercel/GitHub Pages
+  
 ---
 
 ## ⚠️ Lembretes Importantes
