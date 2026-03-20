@@ -7,7 +7,9 @@
 - [ ] Enviado ao professor
 - [ ] Aprovado  
 
-> **Versão do termo .docx:** [baixar na atividade do Canvas]
+> **Versão do termo .docx:** [S3_termo_autorizacao.docx](https://github.com/user-attachments/files/26147061/S3_termo_autorizacao.docx)
+
+> **Versão do termo .PDF:** [S3_termo_autorizacao.pdf](https://github.com/user-attachments/files/26147030/S3_termo_autorizacao.pdf)
 
 ---
 
@@ -15,20 +17,20 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome do Grupo | |
-| Integrantes | |
-| E-mail de contato | |
-| Telefone de contato | |
+| Nome do Grupo | Grupo 6 |
+| Integrantes | Danilo Elias, Rafael de Oliveira Cesário da Silva |
+| E-mail de contato | RafaelOliveiracds@gmail.com |
+| Telefone de contato | (35) 99115-5113 |
 
 ## 2. Dados da Comunidade / Instituição Parceira
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome da instituição | |
-| Endereço | |
+| Nome da instituição | Escola Municipal Doutor Tarso de Coimbra |
+| Endereço | R. Mario Xandó de Oliveira, 2 - São Geraldo, Poços de Caldas - MG, 37701-335 |
 | Nome do responsável | |
 | Cargo/Função | |
-| Telefone ou e-mail da instituição | |
+| Telefone ou e-mail da instituição | (35) 3697-2126 |
 
 > **Nota:** O professor responsável pela disciplina poderá entrar em contato com a comunidade/instituição acima indicada para fins de validação das informações, acompanhamento do desenvolvimento, ajustes no planejamento e alinhamentos necessários à entrega do software.
 
@@ -36,16 +38,20 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Título/Tema da aplicação | |
-| Público-alvo | |
-| Nº estimado de usuários | |
-| Faixa etária do público | |
-| Tecnologias previstas | |
-| Hospedagem prevista | |
+| Título/Tema da aplicação | Matemática no Mercado |
+| Público-alvo | Estudantes em fase de aprendizagem de matemática básica |
+| Nº estimado de usuários | 1..10 |
+| Faixa etária do público | Livre para qualquer idade |
+| Tecnologias previstas | HTML, CSS, React, Next.js |
+| Hospedagem prevista | Github pages ou Vercel |
 
 ### Breve descrição da aplicação e sua finalidade
 
-(Descreva aqui o software que será desenvolvido, seus objetivos e como atende às demandas da comunidade.)
+O projeto “Matemática no Mercado” é uma aplicação web interativa desenvolvida com o objetivo de auxiliar no ensino de matemática básica por meio de um minigame que simula situações de compra em um supermercado. A proposta é proporcionar uma aprendizagem prática e contextualizada, permitindo que o usuário exercite operações como adição, subtração e cálculo de troco de forma simples e intuitiva.
+
+A aplicação é voltada especialmente para pessoas com deficiência auditiva, priorizando uma interface altamente visual, com uso de imagens, ícones e feedbacks visuais, reduzindo a dependência de textos extensos ou instruções sonoras. Dessa forma, busca-se tornar o aprendizado mais acessível e inclusivo.
+
+O sistema funciona por meio de desafios em que o usuário seleciona produtos, visualiza seus preços e resolve problemas relacionados às compras, recebendo retorno imediato sobre seu desempenho.
 
 ## 4. Levantamento de Demandas da Comunidade
 
