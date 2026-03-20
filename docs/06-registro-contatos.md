@@ -17,17 +17,17 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Data | |
-| Forma de contato | *(Presencial / Online / E-mail / Telefone / WhatsApp)* |
-| Participantes do grupo | |
-| Participantes da comunidade | |
-| Objetivo do contato | |
+| Data | 06.03.2026 |
+| Forma de contato | Online |
+| Participantes do grupo |  |
+| Participantes da comunidade | Diretora Professora Fabiana |
+| Objetivo do contato | Entender as necessidades da comunidade |
 
 **Resumo do que foi tratado:**
-(Descrever o que foi discutido, decisões tomadas, demandas identificadas.)
+Durante a reunião, foram discutidas as dificuldades enfrentadas por pessoas com deficiência auditiva, bem como possíveis aplicativos que poderiam ser desenvolvidos para apoiar seu processo de aprendizagem.
 
 **Encaminhamentos:**
-(O que ficou combinado para a próxima interação?)
+Nâo há encaminhamentos combinados para a próxima interação.
 
 ---
 
