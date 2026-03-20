@@ -19,7 +19,11 @@
 
 ## 🎯 Software a Ser Desenvolvido
 
-Desenvolvimento de página Web para ensino de operações matemáticas básicas.
+O software “Matemática no Mercado” é uma aplicação web interativa desenvolvida com o objetivo de auxiliar no ensino de matemática básica por meio de um minigame que simula situações de compra em um supermercado. A proposta é proporcionar uma aprendizagem prática e contextualizada, permitindo que o usuário exercite operações como adição, subtração e cálculo de troco de forma simples e intuitiva.
+
+A aplicação é voltada especialmente para pessoas com deficiência auditiva, priorizando uma interface altamente visual, com uso de imagens, ícones e feedbacks visuais, reduzindo a dependência de textos extensos ou instruções sonoras. Dessa forma, busca-se tornar o aprendizado mais acessível e inclusivo.
+
+O sistema funciona por meio de desafios em que o usuário seleciona produtos, visualiza seus preços e resolve problemas relacionados às compras, recebendo retorno imediato sobre seu desempenho.
 
 ---
 
