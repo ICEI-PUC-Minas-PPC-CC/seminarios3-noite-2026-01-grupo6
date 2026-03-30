@@ -1,0 +1,31 @@
+.page {
+    /* Variaveis para user no CSS */
+    --background: #ccc;
+    --foreground: #fff;
+
+    --text-primary: #000;
+    --text-secondary: #666;
+
+    --success: #349144;
+    --error: #a33e3e;
+
+    font-family: var(--font-geist-sans);
+    background-color: var(--background);
+    color: var(--text-primary);
+
+    /* Display Flex para alinhar os componentes no centro */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Apenas exemplo, excluir depois */
+.title {
+  color: crimson;
+  background-color: blue;
+  text-align: center;
+  width: 500px;
+  border-radius: 4px;
+  margin: 10px;
+  padding: 10px 20px;
+}
