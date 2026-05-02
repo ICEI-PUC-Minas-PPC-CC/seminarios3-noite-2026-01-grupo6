@@ -5,6 +5,7 @@ import { perguntas } from "./perguntas";
 
 export default function Home() {
   const [indexPergunta, setIndexPergunta] = useState(0);
+  const [mostrarResposta, setMostrarResposta] = useState(false);
   const [mostrarProxima, setMostrarProxima] = useState(false);
 
   return (
@@ -46,21 +47,32 @@ export default function Home() {
             </p>
           </div>
         </div>
-        <div className="resposta">
-          {perguntas[indexPergunta].dinheiro} -{" "}
-          {perguntas[indexPergunta].compras.reduce(
-            (total, item) => item.valor + total,
-            0,
-          )}{" "}
-          = R${" "}
-          {perguntas[indexPergunta].dinheiro -
-            perguntas[indexPergunta].compras.reduce(
+
+        {mostrarResposta || (
+          <div className="resposta">
+            <button className="botao" onClick={() => setMostrarResposta(true)}>
+              Mostrar Resposta
+            </button>
+          </div>
+        )}
+
+        {mostrarResposta && (
+          <div className="resposta">
+            {perguntas[indexPergunta].dinheiro} -{" "}
+            {perguntas[indexPergunta].compras.reduce(
               (total, item) => item.valor + total,
               0,
-            )}
-          ,00
-        </div>{" "}
-      </div>{" "}
+            )}{" "}
+            = R${" "}
+            {perguntas[indexPergunta].dinheiro -
+              perguntas[indexPergunta].compras.reduce(
+                (total, item) => item.valor + total,
+                0,
+              )}
+            ,00
+          </div>
+        )}
+      </div>
       <div className="enunciado">
         <strong>Quanto dinheiro sobrou?</strong>{" "}
       </div>{" "}
