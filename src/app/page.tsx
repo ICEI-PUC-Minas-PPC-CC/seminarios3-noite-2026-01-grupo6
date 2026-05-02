@@ -8,6 +8,31 @@ export default function Home() {
   const [mostrarResposta, setMostrarResposta] = useState(false);
   const [mostrarProxima, setMostrarProxima] = useState(false);
 
+  const verificarResposta = (resposta: number, botao: HTMLButtonElement) => {
+    const certaResposta = resposta === perguntas[indexPergunta].indexCorreta;
+
+    if (!certaResposta) {
+      botao.classList.add("errada");
+      return;
+    }
+
+    botao.classList.add("correta");
+    setMostrarProxima(true);
+  };
+
+  const proximaQuestao = () => {
+    const botoes = document.querySelectorAll(".opcoes .botao");
+
+    botoes.forEach((botao) => {
+      botao.classList.remove("correta");
+      botao.classList.remove("errada");
+    });
+
+    setMostrarResposta(false);
+    setMostrarProxima(false);
+    setIndexPergunta(indexPergunta + 1);
+  };
+
   return (
     <div className="pagina">
       <h1 className="titulo">Questão {indexPergunta + 1}/5</h1>
@@ -77,25 +102,34 @@ export default function Home() {
         <strong>Quanto dinheiro sobrou?</strong>{" "}
       </div>{" "}
       <div className="opcoes">
-        <button className="botao">
+        <button
+          className="botao"
+          onClick={(e) => verificarResposta(0, e.target as HTMLButtonElement)}
+        >
           {perguntas[indexPergunta].alternativas[0]}
         </button>
-        <button className="botao">
+        <button
+          className="botao"
+          onClick={(e) => verificarResposta(1, e.target as HTMLButtonElement)}
+        >
           {perguntas[indexPergunta].alternativas[1]}
         </button>
-        <button className="botao">
+        <button
+          className="botao"
+          onClick={(e) => verificarResposta(2, e.target as HTMLButtonElement)}
+        >
           {perguntas[indexPergunta].alternativas[2]}
         </button>
-        <button className="botao">
+        <button
+          className="botao"
+          onClick={(e) => verificarResposta(3, e.target as HTMLButtonElement)}
+        >
           {perguntas[indexPergunta].alternativas[3]}
         </button>
       </div>
       {mostrarProxima && (
         <div className="navegacao">
-          <button
-            className="proximo"
-            onClick={() => setIndexPergunta(indexPergunta + 1)}
-          >
+          <button className="proximo" onClick={() => proximaQuestao()}>
             Próxima Questão
           </button>
         </div>

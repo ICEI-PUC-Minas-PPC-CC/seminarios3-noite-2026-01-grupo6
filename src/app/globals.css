@@ -74,7 +74,7 @@ body {
   background: white;
   padding: 30px;
   border-radius: 14px;
-  box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
   font-size: 18px;
 
   display: flex;
@@ -93,7 +93,7 @@ body {
   background: white;
   padding: 30px;
   border-radius: 14px;
-  box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
 }
 
 .opcoes {
@@ -137,4 +137,14 @@ body {
 
 .proximo:hover {
   transform: scale(1.05);
+}
+
+.correta {
+  background-color: #2ecc71;
+  color: #000;
+}
+
+.errada {
+  background-color: #e74c3c;
+  color: #000;
 }
