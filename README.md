@@ -19,11 +19,11 @@
 
 ## 🎯 Software a Ser Desenvolvido
 
-O software “Matemática no Mercado” é uma aplicação web interativa desenvolvida com o objetivo de auxiliar no ensino de matemática básica por meio de um minigame que simula situações de compra em um supermercado. A proposta é proporcionar uma aprendizagem prática e contextualizada, permitindo que o usuário exercite operações como adição, subtração e cálculo de troco de forma simples e intuitiva.
+O site Matemática foi desenvolvido para auxiliar estudantes na resolução de questões simples de soma e subtração, utilizando valores pequenos e de fácil compreensão. De maneira interativa, o usuário pode escolher entre alternativas e verificar se acertou a resposta, tornando o aprendizado mais dinâmico e acessível.
 
-A aplicação é voltada especialmente para pessoas com deficiência auditiva, priorizando uma interface altamente visual, com uso de imagens, ícones e feedbacks visuais, reduzindo a dependência de textos extensos ou instruções sonoras. Dessa forma, busca-se tornar o aprendizado mais acessível e inclusivo.
+O objetivo é praticar, de forma automatizada, problemas matemáticos que podem surgir no cotidiano, com foco especial em pessoas com deficiência auditiva. Por isso, a interface é altamente visual, priorizando imagens, ícones e feedbacks visuais, minimizando o uso de textos longos ou instruções sonoras. Assim, o site busca promover um aprendizado inclusivo e acessível para todos.
 
-O sistema funciona por meio de desafios em que o usuário seleciona produtos, visualiza seus preços e resolve problemas relacionados às compras, recebendo retorno imediato sobre seu desempenho.
+O funcionamento é simples: o sistema apresenta questões de matemática, oferece opções de resposta e permite ao estudante conferir o resultado com apenas um clique.
 
 ---
 
