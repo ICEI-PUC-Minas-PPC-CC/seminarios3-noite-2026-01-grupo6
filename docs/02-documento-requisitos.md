@@ -10,7 +10,7 @@
 
 ## 1. Visão Geral
 
-“Matemática no Mercado” é uma aplicação web interativa que utiliza um minigame de simulação de compras para ensinar matemática básica. É destinada principalmente a estudantes em fase inicial de aprendizagem e pessoas com deficiência auditiva. O aplicativo resolve a dificuldade de compreensão de conceitos matemáticos ao oferecer uma abordagem prática, visual e acessível.
+“Matemática” é uma aplicação web interativa que utiliza um minigame de simulação de compras para ensinar matemática básica. É destinada principalmente a estudantes em fase inicial de aprendizagem e pessoas com deficiência auditiva. O aplicativo resolve a dificuldade de compreensão de conceitos matemáticos ao oferecer uma abordagem prática, visual e acessível.
 
 ## 2. Público-Alvo
 
@@ -29,11 +29,11 @@ Lista de requisitos para o site:
 
 | ID   | Requisito                                                                 | Prioridade | Origem da demanda            |
 |------|---------------------------------------------------------------------------|:----------:|------------------------------|
-| RF01 | Permitir que o usuário visualize produtos com nome, preço e imagem        | Alta       | Planejamento do site     |
-| RF02 | Permitir adicionar e remover produtos de um carrinho virtual               | Alta       | Planejamento do site     |
-| RF03 | Exibir o valor total da compra em tempo real                               | Alta       | Planejamento do site     |
-| RF04 | Gerar desafios de matemática (total da compra e cálculo de troco)          | Alta       | Planejamento do site     |
-| RF05 | Fornecer feedback visual imediato para respostas corretas e incorretas     | Média      | Planejamento do site     |
+| RF01 | Enunciado com cores                                                       | Alta       | Planejamento do site     |
+| RF02 | Soma total das compras                                                    | Alta       | Planejamento do site     |
+| RF03 | Botão para exibir a resposta                                              | Alta       | Planejamento do site     |
+| RF04 | Botões com as alternativas                                                | Alta       | Planejamento do site     |
+| RF05 | Botão para próxima questão                                                | Alta      | Planejamento do site     |
 
 ## 4. Requisitos Não Funcionais
 
@@ -69,9 +69,8 @@ Lista de requisitos para o site:
 
 ## 8. Escopo Mínimo Viável (MVP)
 
-- [x] Visualização de produtos com nome, preço e imagem  
-- [x] Carrinho de compras com adição e remoção de itens  
-- [x] Cálculo automático do valor total da compra  
+- [x] Enunciado com questão matemática  
+- [x] Alternativas para escolher resposta do problema.  
 - [x] Desafios de matemática (total e troco)  
 - [x] Feedback visual para respostas (correto/incorreto)  
 
@@ -80,3 +79,4 @@ Lista de requisitos para o site:
 - [ ] Sistema de pontuação
 - [ ] Níveis de dificuldade (fácil, médio, difícil)
 - [ ] Modo livre (sem desafios)
+- [ ] Mais questões
