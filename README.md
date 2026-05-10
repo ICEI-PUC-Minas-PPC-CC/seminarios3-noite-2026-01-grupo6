@@ -19,6 +19,8 @@
 
 ## 🎯 Software a Ser Desenvolvido
 
+[Link para o projeto hospedado na Vercel](https://seminarios-grupo6.vercel.app/)
+
 O site Matemática foi desenvolvido para auxiliar estudantes na resolução de questões simples de soma e subtração, utilizando valores pequenos e de fácil compreensão. De maneira interativa, o usuário pode escolher entre alternativas e verificar se acertou a resposta, tornando o aprendizado mais dinâmico e acessível.
 
 O objetivo é praticar, de forma automatizada, problemas matemáticos que podem surgir no cotidiano, com foco especial em pessoas com deficiência auditiva. Por isso, a interface é altamente visual, priorizando imagens, ícones e feedbacks visuais, minimizando o uso de textos longos ou instruções sonoras. Assim, o site busca promover um aprendizado inclusivo e acessível para todos.
