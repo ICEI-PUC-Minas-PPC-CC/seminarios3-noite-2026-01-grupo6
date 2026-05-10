@@ -10,8 +10,8 @@
 
 | Integrante | Responsabilidades principais |
 | ----------- | ------------------------------ |
-| Danilo Elias | Interface do site, HTML, CSS. ( Mostrar produtos, adicionar no carrinho, calcular valores ) |
-| Rafael de Oliveira | Funcionalidades, Javascript. ( Regras do jogo, calculos de valores, interface final, teste se acertou ou errou ) |
+| Danilo Elias | Interface do site, HTML, CSS. |
+| Rafael de Oliveira | Funcionalidades, Javascript. ( Regras do jogo, calculos de valores, teste se acertou ou errou ) |
 
 ## 2. Cronograma de Desenvolvimento
 
