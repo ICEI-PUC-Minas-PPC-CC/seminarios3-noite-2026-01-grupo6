@@ -50,11 +50,11 @@ O trabalho foi desenvolvido utilizando tecnologias front‑end essencialmente si
 
 ### Entrega
 
-(Como foi a entrega presencial? Quantos participantes? Como foi a recepção do software pela comunidade?)
+A entrega presencial contou com a participação de alunos e professores da instituição, que testaram o quiz em situação real de uso. Os estudantes realizaram as atividades com facilidade e rapidez, obtendo êxito em todas as questões, o que indicou boa usabilidade e adequação do material ao público. 
 
 ### Resultados
 
-(O software atendeu às demandas? Feedback da comunidade? O software está acessível pela Internet?)
+O software demonstrou atender de forma satisfatória às demandas levantadas junto à comunidade escolar, tendo sido utilizado pelos participantes sem dificuldades ou dúvidas durante os testes presenciais, o que evidencia que a interface e as instruções estavam adequadas ao público-alvo. O feedback recebido foi positivo, com professores e alunos destacando a clareza visual e a facilidade de navegação como pontos fortes da ferramenta. O site encontra-se disponível publicamente na internet por meio da hospedagem na Vercel, podendo ser acessado em [Site Matemática](https://seminarios-grupo6.vercel.app/), o que viabiliza o uso contínuo e a ampliação do alcance do recurso para além do ambiente presencial de testes.
 
 ## Evidências para Anexar no APC
 
@@ -62,14 +62,11 @@ O trabalho foi desenvolvido utilizando tecnologias front‑end essencialmente si
 
 > Anexar fotos da entrega presencial do software. As fotos devem mostrar a interação com a comunidade.
 
-- [ ] Fotos salvas em `evidencias/fotos/`
+- [x] Fotos salvas em `evidencias/fotos/`
 
 ### Prints de tela da aplicação
 
 > Anexar prints das principais telas da aplicação desenvolvida.
 
-- [ ] Prints salvos em `evidencias/prints/`
+- [x] Prints salvos em `evidencias/prints/`
 
-## Observações
-
-(Dificuldades, aprendizados, sugestões para próximas turmas, etc.)
